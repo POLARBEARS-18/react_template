@@ -26,6 +26,9 @@ module.exports = {
     '@typescript-eslint',
     'unused-imports', //追加 使っていないimportを自動で削除用
     'import',
+    'jest',
+    'jest-dom',
+    'testing-library',
   ],
   ignorePatterns: ['build'], //追加 .eslintignoreに対象外にしているが無いとコンパイルに時間がかかる
   rules: {
