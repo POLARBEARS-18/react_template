@@ -38,7 +38,7 @@
     "@testing-library/react-hooks": "^8.0.1",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^29.4.0",
-    "@types/node": "^16.11.45",
+    "@types/node": "^20.3.1",
     "@types/react-flip-move": "^2.9.12",
     "@types/recoil": "^0.0.9",
     "axios": "0.27.2",
